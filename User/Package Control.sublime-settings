@@ -1,0 +1,17 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"C Improved",
+		"ConvertToUTF8",
+		"CoolFormat",
+		"FileHeader",
+		"OmniMarkupPreviewer",
+		"Package Control",
+		"SublimeAStyleFormatter",
+		"SublimeGit"
+	]
+}
